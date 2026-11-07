@@ -1,0 +1,7 @@
+# Bu depoya yalnız paylaşılacak görseller ve videolar girer. Anahtar, kod, veri yok.
+*.key
+*.json
+*.env
+.env*
+*.pem
+*.txt
